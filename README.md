@@ -12,7 +12,7 @@ The organsiers for RUMMMU are: [Sami Karamalla-Gaiballa](mailto:sami.karamalla-g
 
 |Date | Presenter | Topic |  Location |
 |------------- |-------------|------------|------------|  
- 20/11/2019 | Andrew Stewart | Text Mining and Twitter Scraping | Ellen Wilkinson A3.6 |  
+ 20/11/2019 | Andrew Stewart | [Text Mining and Twitter Scraping](https://ajstewartlang.github.io/Manchester_text_mining_R/Manchester_talk.html) | Ellen Wilkinson A3.6 |  
  18/12/2019 | Belay Birlie Yamer | Constructing Rich Tables for Output to 'HTML'/'Excel/Latex' using R | Ellen Wilkinson B3.3 |  
  19/02/2020 | Sami Karamalla-Gaiballa | Introduction to Tidyverse | Williamson 3.59 |
 
