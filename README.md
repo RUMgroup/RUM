@@ -30,7 +30,7 @@ http://rbasics.netlify.com
 
 ## R Consortium and the R Community Code of Conduct
 
-The R Consortium, like the R community as a whole, is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth.
+The [R Consortium](https://www.r-consortium.org), like the R community as a whole, is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth.
 
 Members of the R Consortium and their representatives are bound to follow this R Community Code of Conduct (which is based on the Python Community Code of Conduct). We encourage all members of the R community to likewise follow these guidelines which help steer our interactions and strive to keep R a positive, successful, and growing community.
 
