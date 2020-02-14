@@ -1,6 +1,6 @@
-# R Users' Group at the University of Manchester and Manchester Metropolitan University (aka RUMMMU)
+# R Users' Group at the University of Manchester and Manchester Metropolitan University
 
-RUMMMU is a welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University of Manchester and Manchester Metroplitan University to exchange tips, ideas and knowledge for the benefit of all. 
+We are a welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University of Manchester and Manchester Metroplitan University to exchange tips, ideas and knowledge for the benefit of all. 
 
 RUMMMU is an amalgamation of the RUM group at the [University of Manchester](https://github.com/RUMgroup/Home) and the [MMU R User Group](https://mmu-r-user-group.github.io/). One of the aims of RUMMMU is to bring together R users from across these two Universities to learn from each other and to develop their R skills.
 
