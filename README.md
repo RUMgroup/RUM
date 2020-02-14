@@ -16,12 +16,25 @@ The organsiers for RUMMMU are: [Sami Karamalla-Gaiballa](mailto:sami.karamalla-g
  18/12/2019 | Belay Birlie Yamer | Constructing Rich Tables for Output to 'HTML'/'Excel/Latex' using R | Ellen Wilkinson B3.3 |  
  19/02/2020 | Sami Karamalla-Gaiballa | Introduction to Tidyverse | Williamson 3.59 |
 
+## Online R Resources
+
+#### R for Data Science online book - Garrett Grolemund and Hadley Wickham
+This is the online interactive version of the book of the same name.  It's a great book to introduce you to data science, reproducibility, and R.
+
+http://r4ds.had.co.nz
+
+#### Online introductory guide to R, RStudio, and R Markdown.
+This is a very clear and focused introduction to R, RStudio, and R Markdown.  
+
+http://rbasics.netlify.com
+
 ## R Consortium and the R Community Code of Conduct
 
 The R Consortium, like the R community as a whole, is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth.
 
 Members of the R Consortium and their representatives are bound to follow this R Community Code of Conduct (which is based on the Python Community Code of Conduct). We encourage all members of the R community to likewise follow these guidelines which help steer our interactions and strive to keep R a positive, successful, and growing community.
-R Community Code of Conduct
+
+### R Community Code of Conduct
 
 A member of the R Community is:
 
