@@ -2,7 +2,7 @@
 
 We are a welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University of Manchester and Manchester Metroplitan University to exchange tips, ideas and knowledge for the benefit of all. 
 
-To sign up to our mailing list, please subscribe directly here: https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM
+To sign up to our mailing list, please subscribe directly [here](https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM)
 
 The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami.karamalla-gaiballa@manchester.ac.uk), [Christian Devenish](mailto:C.Devenish@mmu.ac.uk), [Joanne Watson](mailto:joanne.watson@manchester.ac.uk), [Belay Birlie Yamer](mailto:belaybirlie.yimer@manchester.ac.uk), and [Andrew Stewart](mailto:andrew.stewart@manchester.ac.uk).
 
@@ -46,3 +46,5 @@ Respectful: Members of the community are respectful. We're respectful of others,
 Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
 
 Questions/comments/reports? Please write to the Code of Conduct address: conduct@r-consortium.org. (this will email the Board Chair and R Consortium Program manager). Include any available relevant information, including links to any publicly accessible material relating to the matter. 
+
+This webpage is [here](https://ajstewartlang.github.io/RUM/) and you can improve it [here]().
