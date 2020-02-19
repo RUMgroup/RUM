@@ -2,7 +2,7 @@
 
 We are a welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University of Manchester and Manchester Metroplitan University to exchange tips, ideas and knowledge for the benefit of all. 
 
-To sign up to our mailing list, please subscribe directly [here](https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM)
+To sign up to our mailing list, please subscribe directly [here](https://listserv.manchester.ac.uk/cgi-bin/wa?A0=RUM).
 
 The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami.karamalla-gaiballa@manchester.ac.uk), [Christian Devenish](mailto:C.Devenish@mmu.ac.uk), [Joanne Watson](mailto:joanne.watson@manchester.ac.uk), [Belay Birlie Yamer](mailto:belaybirlie.yimer@manchester.ac.uk), and [Andrew Stewart](mailto:andrew.stewart@manchester.ac.uk).
 
