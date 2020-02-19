@@ -1,4 +1,4 @@
-# R Users Manchester
+# R Universities Manchester (RUM)
 
 We are a welcoming group which exists to bring together R users of all levels, with interests in diverse fields from across the University of Manchester and Manchester Metroplitan University to exchange tips, ideas and knowledge for the benefit of all. 
 
