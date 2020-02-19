@@ -47,4 +47,4 @@ Overall, we're good to each other. We contribute to this community not because w
 
 Questions/comments/reports? Please write to the Code of Conduct address: conduct@r-consortium.org. (this will email the Board Chair and R Consortium Program manager). Include any available relevant information, including links to any publicly accessible material relating to the matter. 
 
-This webpage is [here](https://ajstewartlang.github.io/RUM/) and you can improve it [here]().
+This webpage is [here](https://ajstewartlang.github.io/RUM/).
