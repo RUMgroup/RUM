@@ -24,12 +24,12 @@ The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami
 #### R for Data Science online book - Garrett Grolemund and Hadley Wickham
 This is the online interactive version of the book of the same name.  It's a great book to introduce you to data science, reproducibility, and R.
 
-http://r4ds.had.co.nz
+[http://r4ds.had.co.nz](http://r4ds.had.co.nz)
 
 #### Online introductory guide to R, RStudio, and R Markdown.
 This is a very clear and focused introduction to R, RStudio, and R Markdown.  
 
-http://rbasics.netlify.com
+[http://rbasics.netlify.com](http://rbasics.netlify.com)
 
 ## R Consortium and the R Community Code of Conduct
 
