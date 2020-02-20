@@ -13,7 +13,7 @@ The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami
  20/11/2019 | Andrew Stewart | [Text Mining and Twitter Scraping](https://ajstewartlang.github.io/Manchester_text_mining_R/Manchester_talk.html) | Ellen Wilkinson A3.6 |  
  18/12/2019 | Belay Birlie Yamer | Constructing Rich Tables for Output to 'HTML'/'Excel/Latex' using R | Ellen Wilkinson B3.3 |  
  19/02/2020 | Sami Karamalla-Gaiballa | Introduction to Tidyverse | Williamson 3.59 |
- 18/03/2020 | Andrew Stewart | [Tidy Tuesday](https://github.com/ajstewartlang/RUM_TidyTuesday_2020) | TBC |
+ 18/03/2020 | Andrew Stewart | [Tidy Tuesday (but on a Wednesday)](https://github.com/ajstewartlang/RUM_TidyTuesday_2020) | TBC |
 
 ## Online R Resources
 
