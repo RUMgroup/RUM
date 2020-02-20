@@ -14,7 +14,11 @@ The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami
  18/12/2019 | Belay Birlie Yamer | Constructing Rich Tables for Output to 'HTML'/'Excel/Latex' using R | Ellen Wilkinson B3.3 |  
  19/02/2020 | Sami Karamalla-Gaiballa | Introduction to Tidyverse | Williamson 3.59 |
  18/03/2020 | Andrew Stewart | [Tidy Tuesday (but on a Wednesday)](https://github.com/ajstewartlang/RUM_TidyTuesday_2020) | TBC |
+ 22/04/2020 | TBC | TBC |TBC |
+ 20/05/2020 | TBC | TBC |TBC |
+ 17/06/2020 | TBC | TBC |TBC |
 
+ 
 ## Online R Resources
 
 #### R for Data Science online book - Garrett Grolemund and Hadley Wickham
