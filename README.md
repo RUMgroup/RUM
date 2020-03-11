@@ -6,7 +6,7 @@ To sign up to our mailing list, please subscribe directly [here](https://listser
 
 The current organsiers for this group are: [Sami Karamalla-Gaiballa](mailto:sami.karamalla-gaiballa@manchester.ac.uk), [Christian Devenish](mailto:C.Devenish@mmu.ac.uk), [Sam Langton](S.Langton@mmu.ac.uk), [Joanne Watson](mailto:joanne.watson@manchester.ac.uk), [Belay Birlie Yamer](mailto:belaybirlie.yimer@manchester.ac.uk), and [Andrew Stewart](mailto:andrew.stewart@manchester.ac.uk).
 
-# Timetable for 2019/2020 - all sessions run 1200-1300 unless stated otherwise
+# Timetable for 2019/2020 - all sessions run 1200-1300
 
 |Date | Presenter | Topic |  Location |
 |------------- |-------------|------------|------------|  
